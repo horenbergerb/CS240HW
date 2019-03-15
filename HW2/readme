@@ -1,0 +1,12 @@
+README
+
+By Beau Horenberger, Feb 15, 2019
+
+The MSH program is almost completely ready to run out of the box.
+Simply compile using the command "make"
+Then, run using the command "./msh"
+
+An additional command has been added to the shell for terminating the process
+This command is "exit"
+
+NOTE: This program compiles using C11!
